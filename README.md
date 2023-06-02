@@ -1,5 +1,5 @@
 # Examen_Final_Ruben
-link al repositorio: 
+link al repositorio: https://github.com/frankiyonki/Examen_Final_Ruben.git
 '''
 Ejercicio de POO (7 puntos (3 puntos+4 puntos)) Creación de nuestra estructura POO
 1) En la red social Twitter, cada usuario es propietario de una cuenta (UserAccount) en la que, básicamente, se especifica un alias (que cumple las funciones de identificador único) y un email de contacto. En la cuenta, además, se incluye el conjunto de tweets que el propietario va publicando a lo largo del tiempo.
